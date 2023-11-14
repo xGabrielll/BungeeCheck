@@ -1,0 +1,13 @@
+name: Check
+version: '2.1.1'
+main: pl.xgabriel.sprawdzanie.Main
+author: xGabrielxYT_
+description: Check command
+
+commands:
+  check:
+    description: 'Komenda sprawdzająca graczy'
+    aliases: []
+  checktp:
+    description: 'Komenda teleportacji do sprawdzarki'
+    aliases: []
